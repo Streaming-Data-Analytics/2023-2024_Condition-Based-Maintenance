@@ -18,7 +18,7 @@ The effectiveness of the proposed system will be evaluated based on:
 - Throughput and latency in event processing and aggregation.
 
 **Dataset**: \
-The system will be tested in controlled scenarios using drone imagery of pylons obtained [here](https://app.roboflow.com/motus-aeaxm/pylon-components/deploy)
+The system will be tested in controlled scenarios using drone imagery of pylons obtained [here](https://app.roboflow.com/motus-aeaxm/pylon-components/deploy). \
 The expected result is a dockerized application that demos the complete pipeline and analyzes the solution performance against the evaluation metrics. The project will culminate in a comprehensive discussion of the results, highlighting the system's potential to enhance the maintenance and reliability of electricity pylons through automated, condition-based monitoring strategies.
 
 
