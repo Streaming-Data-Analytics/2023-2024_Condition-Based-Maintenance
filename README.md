@@ -11,13 +11,13 @@ This project delves into the innovative application of image processing and even
 - Stream Processing Component: Leveraging a Stream Processor (SP) to aggregate detection events and evaluate the presence and condition of each insulator.
 The project will utilize AI frameworks such as Edge Impulse or Roboflow, python libraries, and a stream processor among those illustrated in the course. The goal is to automate the detection of insulators and their condition, sending detailed events to the SP that, in turn, output a report at the end of each pylon inspection.
 
-**Evaluation Metrics**:
+**Evaluation Metrics**: \
 The effectiveness of the proposed system will be evaluated based on:
 - Accuracy of insulator detection.
 - Precision in condition assessment.
 - Throughput and latency in event processing and aggregation.
 
-**Dataset**:
+**Dataset**: \
 The system will be tested in controlled scenarios using drone imagery of pylons obtained [here](https://app.roboflow.com/motus-aeaxm/pylon-components/deploy)
 The expected result is a dockerized application that demos the complete pipeline and analyzes the solution performance against the evaluation metrics. The project will culminate in a comprehensive discussion of the results, highlighting the system's potential to enhance the maintenance and reliability of electricity pylons through automated, condition-based monitoring strategies.
 
